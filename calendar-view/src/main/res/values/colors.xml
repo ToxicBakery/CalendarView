@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="entry_blue">#FF1565C0</color>
+    <color name="entry_orange">#EF6C00</color>
+    <color name="entry_green">#FF2E7D32</color>
+    <color name="day_past">#FFAAAAAA</color>
+    <color name="day_present">@color/entry_blue</color>
+    <color name="day_future">#FF000000</color>
+    <color name="entry_text">#FFFFFFFF</color>
+</resources>

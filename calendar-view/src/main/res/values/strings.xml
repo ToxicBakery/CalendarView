@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="week_last">Last Week (%1$s - %2$s)</string>
+    <string name="week_this">This Week (%1$s - %2$s)</string>
+    <string name="week_next">Next Week (%1$s - %2$s)</string>
+    <string name="week_of">Week of %1$s - %2$s</string>
+
+</resources>

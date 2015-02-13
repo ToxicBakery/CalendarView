@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="entry_corner_radius">3dp</dimen>
+    <dimen name="entry_item_spacing">7dp</dimen>
+    <dimen name="entry_padding">7dp</dimen>
+    <dimen name="key_line">16dp</dimen>
+    <dimen name="day_of_month_width">56dp</dimen>
+    <dimen name="day_of_month_text_size">33sp</dimen>
+    <dimen name="day_of_week_margin_left">2dp</dimen>
+    <dimen name="day_of_week_margin_top">-7dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="entry_drawables">
+        <item>@drawable/entry_blue</item>
+        <item>@drawable/entry_green</item>
+        <item>@drawable/entry_orange</item>
+    </array>
+
+</resources>
